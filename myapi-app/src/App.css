@@ -18,3 +18,24 @@ img{
 .btn{
   margin-top: 20px;
 }
+.btn btn-warning btn-lg category{
+  margin:20px;
+}
+.SubTitle{
+  color: white;
+  margin-top: 50px;
+}
+.displayjokes ul li {
+  padding:5px;
+  list-style-type: circle;
+  color: black;
+
+}
+.Categories p{
+  display: flex;
+
+}
+.form-control{
+  display: block;
+  margin:10px;
+}
